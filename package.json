@@ -1,0 +1,19 @@
+{
+  "name": "7_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc && node blackjack.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.3",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
